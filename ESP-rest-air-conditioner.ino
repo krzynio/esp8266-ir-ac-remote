@@ -19,7 +19,6 @@ https://github.com/ToniA/arduino-heatpumpir
 #include <ESP8266WiFi.h>
 #include <aREST.h>
 #include "urlparser.h"
-#include <string.h>
 #include <FujitsuHeatpumpIR.h>
 
 IRSenderBitBang irSender(5);
