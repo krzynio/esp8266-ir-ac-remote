@@ -12,3 +12,7 @@ https://github.com/marcoschwartz/aREST
 https://github.com/ToniA/arduino-heatpumpir
 
 An Arduino library to control a Panasonic, Midea, Carrier, Fujitsu or Mitsubishi heat pump/split unit air conditioner.
+
+## Schematic
+
+![ESP Infrared Remote](http://fritzing.org/media/fritzing-repo/projects/e/esp8266-ir-transmitter/images/IR%20Transmitter_bb.png)
